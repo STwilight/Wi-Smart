@@ -1,2 +1,9 @@
-/pcb/*.pdsbak
 /pcb/*.workspace
+/pcb/*.pdsbak
+/pcb/*.sts
+/pcb/*.rte
+/pcb/*.DO
+/pcb/*.EDF
+/pcb/*.log
+/code/Master Device/out
+/code/Master Device/.settings
